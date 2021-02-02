@@ -1,0 +1,10 @@
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\bin\Debug\netcoreapp3.1\AIE_02_AgeCalculator.exe
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\bin\Debug\netcoreapp3.1\AIE_02_AgeCalculator.deps.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\bin\Debug\netcoreapp3.1\AIE_02_AgeCalculator.runtimeconfig.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\bin\Debug\netcoreapp3.1\AIE_02_AgeCalculator.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\bin\Debug\netcoreapp3.1\AIE_02_AgeCalculator.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\bin\Debug\netcoreapp3.1\AIE_02_AgeCalculator.pdb
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\obj\Debug\netcoreapp3.1\AIE_02_AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\obj\Debug\netcoreapp3.1\AIE_02_AgeCalculator.AssemblyInfo.cs
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\obj\Debug\netcoreapp3.1\AIE_02_AgeCalculator.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_AgeCalculator\obj\Debug\netcoreapp3.1\AIE_02_AgeCalculator.pdb

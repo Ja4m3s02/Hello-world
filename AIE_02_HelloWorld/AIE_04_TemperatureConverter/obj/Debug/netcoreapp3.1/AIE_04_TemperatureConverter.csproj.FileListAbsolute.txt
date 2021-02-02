@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\bin\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.exe
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\bin\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.deps.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\bin\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.runtimeconfig.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\bin\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\bin\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\bin\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.pdb
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\obj\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\obj\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\obj\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.AssemblyInfo.cs
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\obj\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_04_TemperatureConverter\obj\Debug\netcoreapp3.1\AIE_04_TemperatureConverter.pdb

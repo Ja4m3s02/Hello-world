@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\obj\Debug\netcoreapp3.1\AIE_02_HelloWorld.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\obj\Debug\netcoreapp3.1\AIE_02_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\obj\Debug\netcoreapp3.1\AIE_02_HelloWorld.AssemblyInfo.cs
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\bin\Debug\netcoreapp3.1\AIE_02_HelloWorld.exe
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\bin\Debug\netcoreapp3.1\AIE_02_HelloWorld.deps.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\bin\Debug\netcoreapp3.1\AIE_02_HelloWorld.runtimeconfig.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\bin\Debug\netcoreapp3.1\AIE_02_HelloWorld.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\bin\Debug\netcoreapp3.1\AIE_02_HelloWorld.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\bin\Debug\netcoreapp3.1\AIE_02_HelloWorld.pdb
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\obj\Debug\netcoreapp3.1\AIE_02_HelloWorld.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_02_HelloWorld\obj\Debug\netcoreapp3.1\AIE_02_HelloWorld.pdb

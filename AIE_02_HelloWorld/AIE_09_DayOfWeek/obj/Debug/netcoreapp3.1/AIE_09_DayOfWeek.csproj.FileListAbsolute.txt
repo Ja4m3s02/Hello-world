@@ -1,0 +1,10 @@
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\bin\Debug\netcoreapp3.1\AIE_09_DayOfWeek.exe
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\bin\Debug\netcoreapp3.1\AIE_09_DayOfWeek.deps.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\bin\Debug\netcoreapp3.1\AIE_09_DayOfWeek.runtimeconfig.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\bin\Debug\netcoreapp3.1\AIE_09_DayOfWeek.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\bin\Debug\netcoreapp3.1\AIE_09_DayOfWeek.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\bin\Debug\netcoreapp3.1\AIE_09_DayOfWeek.pdb
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\obj\Debug\netcoreapp3.1\AIE_09_DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\obj\Debug\netcoreapp3.1\AIE_09_DayOfWeek.AssemblyInfo.cs
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\obj\Debug\netcoreapp3.1\AIE_09_DayOfWeek.dll
+C:\Users\s210209\Desktop\Documents\AIE_02_HelloWorld\AIE_09_DayOfWeek\obj\Debug\netcoreapp3.1\AIE_09_DayOfWeek.pdb
